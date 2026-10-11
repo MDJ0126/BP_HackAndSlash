@@ -11,7 +11,7 @@
 .resourcesplitter/** -filter -text -diff -merge
 GitChunk.* -filter
 ResourceSplitter.* -filter
-Tools/ResourceSplitter/** -filter
+Tools/GitChunk/** -filter
 
 # GitChunk converted LFS files
 "/BladeSlash.zip" filter=gitchunk -text -diff -merge
