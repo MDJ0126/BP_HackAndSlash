@@ -1,0 +1,50 @@
+# Generated from the Git index. Do not edit.
+# Chunk order for each original file; restoration uses its pointer.
+
+["BladeSlash.zip"]
+000001 = d09e28ec13c5b4ceba297a7bc00905d0c5d1fb1c
+000002 = f3d031812828b50ed90261ff0ab3f4b26de8f17e
+000003 = d30fd8e624cf4b0c59eeab6902f48c9a56087e2e
+000004 = 59753acc04bf5dde3765b1cedcf0fa054761e8d9
+000005 = 2be00cdf104bf72fadb6810382f5bb3ccaa5c2e9
+000006 = 2824aa43837f08c18a6d57f4a86d8bd9ee03de8b
+000007 = 1c3318b12acfaab06dfc2c57a16d1ddc95f4abdb
+000008 = 6c217a4472eec4654e3e21eb3c54275437beaa79
+000009 = bd773e3cffc46e09451fd66d33b67f5214c59471
+000010 = c792fdda146aa443309e1e0afd127e044ace2447
+000011 = b21ee0b03642665495b8ce379c431ec58b8f2bc4
+000012 = 91cd4ab6885d59daba0466c0deef29e5934c74e0
+000013 = 313bcbd18a77f72ac0fcbfda2a43e1fc881b7393
+000014 = 0202b0d7fae4db0804edcafd1069046f8c3b74a3
+000015 = b55db9cc7363dba104511fb6030c7847e83a1307
+000016 = d1f41841243ee8234f4c69cce22e7ec072c71c9f
+000017 = a9ee9f9a1eb4b7a4d8eb958a872eb2bcebb53970
+000018 = de9b1bc87b46603c50a9771986399befe0970695
+000019 = eea0fb723beb93f1ec975ea1d968d2cc3d5aac11
+000020 = 1ae51706d526abe169781b94e2a8550886981586
+000021 = 365756d1c47c37d73783d199cf0c04003fb11919
+000022 = b22346300e6b9026169b912b769808713deb177a
+000023 = 38b1f1b7d6035db09a3fb99845bd3e2cbf70a83b
+000024 = 571741801474cf21b1895f1bd28b8f45261de8ff
+
+["Content/ArtResouces/ParagonKwang/Characters/Global/Eyes/Textures/EpicQuadPanorama_CC.uasset"]
+000001 = 693c174f8efc96c66dd6625fd2159c6f437a4ae0
+000002 = 68080ec12d728237ec2b8fba05969947f55af552
+
+["Content/ArtResouces/ParagonKwang/FX/Textures/Debris/T_LargePlainsBoulder002_N.uasset"]
+000001 = 61ee2e776295d171ea4fdb1f0721a962d60cb05f
+000002 = 6a238369446fba92e0f31c3899edbf5dbebd3f83
+
+["Content/ArtResouces/ParagonMinions/Characters/Global/Eyes/Textures/EpicQuadPanorama_CC.uasset"]
+000001 = ac78c5ada48ca00ce5423f94c5b1cbbc17b17270
+000002 = 690f63ecada9f4d4d5bc488313e5dda0c4108932
+
+["Content/ArtResouces/ParagonMinions/Characters/Global/MaterialLayers/Wood/T_TreeBark_D.uasset"]
+000001 = 640dbbc0f6ca1820a028ad0511811d756897dae4
+000002 = a97bf6651f80b46cb61c83256dd5b8940d9210d3
+000003 = 921e9be14951b83f197b5aa9622f038ad192e143
+
+["Content/ArtResouces/ParagonMinions/Characters/Global/MaterialLayers/Wood/T_TreeBark_N.uasset"]
+000001 = 455bfcfd22f279e3053662adc54810d55edc219e
+000002 = eb0d5a3861136376d0523f004f34d0747e2c698e
+000003 = 4a003ac9ac725172a1d5f30ae39fca2dff2ce8d4

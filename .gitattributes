@@ -8,8 +8,6 @@
 .gitattributes -filter
 .gitignore -filter
 .gitchunk/** -filter -text -diff -merge
-.gitchunk/rules.txt -filter text eol=lf diff
-.gitchunk/presets/** -filter text eol=lf diff
 .resourcesplitter/** -filter -text -diff -merge
 GitChunk.* -filter
 ResourceSplitter.* -filter
@@ -2151,3 +2149,5 @@ Tools/ResourceSplitter/** -filter
 "/Content/DataTable/FCharacterData.uasset" filter=gitchunk -text -diff -merge
 "/Content/DataTable/FSkillData.uasset" filter=gitchunk -text -diff -merge
 "/Content/Maps/DevMap.umap" filter=gitchunk -text -diff -merge
+.gitchunk/chunks.txt -filter text eol=lf diff
+.chunkignore -filter text eol=lf diff
