@@ -18,7 +18,7 @@
 
 ## 게임 다운로드
 
-[BladeSlash.zip 다운로드 (약 1.2GB)](https://github.com/MDJ0126/BP_HackAndSlash/blob/main/BladeSlash.zip?raw=true)
+[BladeSlash.zip 다운로드 (약 1.2GB)](https://github.com/MDJ0126/BP_HackAndSlash/releases/latest/download/BladeSlash.zip)
 
 압축 해제 후, `BP_HackAndSlash.exe`를 실행하여 플레이할 수 있습니다.
 
